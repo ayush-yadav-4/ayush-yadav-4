@@ -3,7 +3,7 @@
 
 <br>
 
-🔭 Currently working on **[AWS Service Automation Project](your-project-link-here)**  
+🔭 Currently working on **[AWS Service Automation Project](https://github.com/ayush-yadav-4/AWS-Cloud-automation-ai-agent)**  
 
 🌱 Exploring **Data Structures and Algorithms** to level up problem-solving skills  
 
@@ -11,14 +11,28 @@
 
 💬 Feel free to ask me about **React.js, Node.js, Express.js, AWS Cloud Services**  
 
-📫 Reach out at **ayushyadav@example.com**  
+📫 Reach out at **ayushyadavv4@gmail.com**  
 
-⚡ Fun fact: I enjoy debugging code as much as cracking algorithm challenges! 😃  
+📄 Know about my experiences  **[Portfolio](https://github.com/ayush-yadav-4)** 
+
+⚡ I enjoy debugging code as much as cracking algorithm challenges! 😃  
 
 <br>
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-yadav-766553283/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  <a href="https://leetcode.com/u/ayushyadav_4/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
+  </a>
+</p>
+---
+<br>
 ## 🚀 Skills & Technologies
 
 ### 🖥️ Languages:
@@ -76,13 +90,4 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="https://leetcode.com/your-profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
-  </a>
-</p>
