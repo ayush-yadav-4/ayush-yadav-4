@@ -27,6 +27,7 @@
   <a href="https://www.linkedin.com/in/ayush-yadav-766553283/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
+
   <a href="https://leetcode.com/u/ayushyadav_4/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60"/>
   </a>
